@@ -21,7 +21,7 @@ export function CtaBand() {
               </p>
               <div className="flex flex-wrap gap-4">
                 <Button href="/contact" variant="inverse">
-                  Start Your Project
+                Lets Build
                 </Button>
                 <Button href="/about" variant="secondary">
                   Meet the Team
